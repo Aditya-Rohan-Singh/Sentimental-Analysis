@@ -13,6 +13,7 @@ Created on Sat Oct 18 16:58:12 2021
 import tweepy as tw
 import csv
 
+# Please use your own keys. These keys do not work anymore
 consumer_key= '5limczXPkrQXwSKZBgr22xvRY'
 consumer_secret= 'dnxoBGO2F0DptXDu6rQfBFf6E9tqWDFSh5SYvbh1mNAjKb8QhG'
 access_token= '110668153-9xkWmU2L83wl6EyrYAocda9ITYsXeb7BThzbbDiv'
